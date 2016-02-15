@@ -1,0 +1,4 @@
+services:
+#    laul_my_test.example:
+#        class: laul\MyTestBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
