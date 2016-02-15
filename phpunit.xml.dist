@@ -7,7 +7,7 @@
     </php>
     <testsuites>
         <testsuite name="App Bundle test suite">
-            <directory suffix="Test.php">./Tests</directory>
+            <directory suffix="Test.php">./MyTestBundle</directory>
         </testsuite>
     </testsuites>
     <!-- Quels fichiers sont concernés par l'évaluation du code coverage -->
